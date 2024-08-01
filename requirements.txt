@@ -1,9 +1,8 @@
 appdirs==1.4.4
-asgiref==3.3.1
 bootstrap-admin==0.4.4
 distlib==0.3.1
 dj-database-url==0.5.0
-Django==3.1.6
+Django==4.2.6
 django-ckeditor==6.0.0
 django-crispy-forms==1.11.2
 django-js-asset==1.2.2
@@ -12,6 +11,6 @@ filelock==3.0.12
 Pillow==10.1.0
 pytz==2020.4
 six==1.15.0
-virtualenv==20.2.2
-virtualenvwrapper-win==1.2.6
+sqlparse==0.4.4
+tzdata==2023.3
 whitenoise==5.2.0
